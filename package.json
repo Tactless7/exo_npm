@@ -1,0 +1,25 @@
+{
+  "name": "exo_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "moment": "^2.15.1",
+    "semantic-ui": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tactless7/exo_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tactless7/exo_npm/issues"
+  },
+  "homepage": "https://github.com/Tactless7/exo_npm#readme"
+}
